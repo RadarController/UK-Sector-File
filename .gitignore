@@ -4,6 +4,7 @@
 .build/**
 .bin/**
 # Ignore accidental inclusions of .exe files + the (current) file names the compiler exports
+compiler.config.json
 *.exe
 **/cli-linux-x64
 **/cli-mac-x64
